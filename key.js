@@ -1,0 +1,41 @@
+module.exports={
+  'line':{
+    //'cs':'e39225ed25654650ec36edd7b557a359',
+    //'at':'ur24/wsNp/ha1maFn88DzcoXgqBaEwrCFkEFOFP3JF2LdZaL4KbWUuHUN9K2znL5q8u0rYinMmM41zF0HTKmeTPVMaCHAzzlCkAdD9DBm69FIhVgIHY/pcaelYDz+FoKIgt962Nlyun009/P9Rt1/AdB04t89/1O/w1cDnyilFU=',
+    // 'cs_test':'f06e9f7b5f3aaed6a10db51799a770ec',
+    // 'at_test':'69YyPxvCJ4d2o2NEoMoncSAVxefFe2vQ2+6rsMdFHGt6W5uOzg6azVvw8AjVlcWRJ5gSCy6bfMbkF2Qcd9KsbhuVoLxjOFy7NyjtWe4RtEmp074jksCLC3dU0YOWbz4d612j5NZSozQ71TKHNTwBzAdB04t89/1O/w1cDnyilFU=',
+    'cs':'22485c70d452360980d6ac47a8bf941f',
+    'at':'LhS0/5VkQcqPeb0xIP1N7GdpitZDQNmlCB/NMjF8otTFSk/kZHUdJIKmHlxVeap70fnMCBl/3dVWsJf4Ym7a/o+tLsWGiAX48g/pF5FYzjJV4H7nR8exYrKhS0CnFAinXj1rJQqdt9CAJtqsEcMz/gdB04t89/1O/w1cDnyilFU='
+  },
+  'images':{
+    'cse':'014733287391910900486:oyuj2s4-bb0',
+    'api':'AIzaSyCOXOldJQ0JcLlDdyW2-YfruM8PJBSTK6s',
+    'cse_eat':'009110364495045701964:1eyzkuwdmzk',
+    'api_eat':'AIzaSyA6LJSmtmTdpl5XoGmreSwLE00kAOGjAzU',
+    'cse_place':'009110364495045701964:cpktjatzd2q',
+    'api_place':'AIzaSyDkWlvVL_cSCHL37jz35n0Iv5FVpqA6wnU'
+  },
+  'places':{
+    'api':'AIzaSyCpA2VAPkruqcZ0qGd-J7ap-cpj2U6DI74'
+  },
+  'eventBrite':{
+    'token':'DLEDQDCRWDDFLEN5E7KX'
+  },
+  'zomato':{
+    'token':'c54696ac22a64504dfab0f4709700df1'
+  },
+  'openWeather':{
+    'token':'678f972bea7583f43a0b44957e7b0408'
+  },
+  'imgur':{
+    'em':'xploria.info@gmail.com',
+    'ps':'Password1$',
+    'id':'c24fd3197d6b3f8',
+    'cs':'54606df1348f9e6c301445eacf4c80031c13cd62'
+  },
+  'booking':{
+    'aid':'1252463',
+    'url':'https://m.booking.com/search.id.html',
+    'otherParam':'sid=e32bb5b2093a63e0b26ecea5e386fe47'
+  }
+};
