@@ -2,7 +2,7 @@
 
 ![Xploria](https://raw.githubusercontent.com/kmaguswira/line-bot/master/xploria.png)
 
-Xploria bot will help travellers to explore new places by getting new friends, get direction to a place, nearby restaurant, information about upcoming events in a particular place, weather information and also booking hotel. Watch [demo].
+Xploria bot will help travellers to explore new places by getting new friends, get direction to a place, nearby restaurant, information about upcoming events in a particular place, weather information and also booking hotel. Watch [demo] or visit our [website].
 
 # Features!
 
@@ -38,6 +38,11 @@ $ npm install -d
 $ npm start
 ```
 
+### Don't forget to add Xploria on line
+
+![Xploria-qr](http://qr-official.line.me/L/wqwc9KxjdZ.png)
+![Xploria-qr-btn](https://scdn.line-apps.com/n/line_add_friends/btn/en.png)
+
 
 
    [node.js]: <http://nodejs.org>
@@ -45,6 +50,8 @@ $ npm start
    [express]: <http://expressjs.com>
    [mongoose]: <https://github.com/Automattic/mongoose>
    [demo]: <https://www.youtube.com/watch?v=1OplIyKxEas>
+   [website]: <https://xploria.herokuapp.com>
+
 
 
   
