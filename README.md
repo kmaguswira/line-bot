@@ -40,7 +40,7 @@ $ npm start
 
 ### Don't forget to add Xploria on line
 
-![Xploria-qr](http://qr-official.line.me/L/wqwc9KxjdZ.png)
+![QR-CODE](https://qr-official.line.me/L/wqwc9KxjdZ.png)
 ![Xploria-qr-btn](https://scdn.line-apps.com/n/line_add_friends/btn/en.png)
 
 
